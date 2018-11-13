@@ -20,6 +20,7 @@
                                     </transition-group>
                                 </draggable>
                                 <div class="small-card">
+                                    
                                     <h5 class="text-center" @click="addNew(index)">Add new card</h5>
                                 </div>
                             </div>
